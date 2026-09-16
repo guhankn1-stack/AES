@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/552a287b-7ef2-4cf5-8bd6-ee4b49994fe8" /># EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
+STANDARD ALGORITHM
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
